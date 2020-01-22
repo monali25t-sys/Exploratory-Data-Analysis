@@ -1,6 +1,6 @@
 # Project
 
-This project explores the dataset of 1000 most popular movies from the IMDB database during the period of 2006-2016. The project is divided into 5 main components:
+This project explores the dataset of 1000 most popular movies during the period of 2006-2016. The project is divided into 5 main components:
 
 - Problem Statement
 - Data Wrangling
