@@ -40,4 +40,4 @@ Users registered on this site are invited to rate any film on a scale of 1 to 10
 
 It also displays the Metascore of each title. Metascore is the rating given by another movie rating company called Metacritic. However, unlike IMDB, they get ratings from registered well known rating agencies and calculates a weighted average of those ratings.
 
-Below is the data dictionary explaining the various columns of the dataset
+
